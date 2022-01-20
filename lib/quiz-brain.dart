@@ -7,7 +7,7 @@ class QuizBrain {
   List<Question> _questionBank=[
     Question(q: '1 + 1 = 2', a: true),
     Question(q: 'Durian is citrus fruit', a: false),
-    Question(q: '2 + 3 = 5', a: false),
+    Question(q: '2 + 2 = 5', a: false),
     Question(q: 'Water freeze at 0 degree Celcius', a: true),
     Question(q: 'Man can fly', a: false),
     Question(q: 'Cat is very cute', a: true),
